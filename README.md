@@ -1,3 +1,7 @@
+# Bravo4Life
+
+Visit our [private repo](https://github.com/miffycs/hackher413-2020) to view more.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
